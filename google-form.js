@@ -10,7 +10,7 @@
       }).join('&');
       var xhr = new XMLHttpRequest();
 
-      xhr.open('POST', form.action, true);
+      xhr.open('POST', form.action + '/formResponse', true);
       xhr.setRequestHeader('Accept',
           'application/xml, text/xml, */*; q=0.01');
       xhr.setRequestHeader('Content-type',
