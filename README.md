@@ -16,7 +16,7 @@
 ```html
 <form method="POST"
       action="https://docs.google.com/forms/d/1gci224y12YpOnxudXm_wUIM1da474gI6pE9AborYAew"
-      onsubmit="return window.exports.submitGoogleForm(this);">
+      onsubmit="return window.submitGoogleForm(this);">
 
   <label>name</label>
   <!-- view the form and inspect inputs to get the generated names. -->
