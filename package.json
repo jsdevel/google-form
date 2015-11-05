@@ -1,0 +1,22 @@
+{
+  "name": "google-form",
+  "main": "google-form.js",
+  "version": "0.0.0",
+  "description": "Simple AJAX request to POST data to a google form.",
+  "author": "Joseph Spencer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsdevel/google-form.git"
+  },
+  "keywords": [
+    "google",
+    "form",
+    "cors",
+    "ajax"
+  ],
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsdevel/google-form/issues"
+  }
+}
