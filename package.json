@@ -1,7 +1,7 @@
 {
   "name": "google-form",
   "main": "google-form.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple AJAX request to POST data to a google form.",
   "author": "Joseph Spencer",
   "repository": {
