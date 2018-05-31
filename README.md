@@ -29,7 +29,7 @@
 * Load `./google-form.js` in your browser, or `require` it with browserify or webpack.
 * That's it!
 
-##LICENSE
+## LICENSE
 ``````
 The MIT License (MIT)
 
